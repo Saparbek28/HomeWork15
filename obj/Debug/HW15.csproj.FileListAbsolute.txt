@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\HW15\HW15\bin\Debug\HW15.exe.config
+C:\Users\admin\source\repos\HW15\HW15\bin\Debug\HW15.exe
+C:\Users\admin\source\repos\HW15\HW15\bin\Debug\HW15.pdb
+C:\Users\admin\source\repos\HW15\HW15\obj\Debug\HW15.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HW15\HW15\obj\Debug\HW15.exe
+C:\Users\admin\source\repos\HW15\HW15\obj\Debug\HW15.pdb
